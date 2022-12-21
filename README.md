@@ -1,2 +1,4 @@
 # portfolio-v1
- just a project to practice
+portfolio project just using html and css. 🧠
+
+Obs: It's just for practice, this is not my real portfolio. ❤
